@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ashwini N</h1>
+<h1 align="center">💫 Hi 👋, I'm Ashwini N</h1>
 
 <h2>🌟 About Me</h2>
 <p><strong>Java Full Stack Developer</strong></p>
